@@ -1,0 +1,4 @@
+web:
+  image: tutum/hello-world
+  ports:
+    - "1234:80"
